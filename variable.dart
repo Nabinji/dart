@@ -13,7 +13,9 @@ void main() {
   // 2) varible name cannot start with a digit.
   // varible names must start with letter , doller or an uderscore character.
 
-// int 1name = 23;
+// int 1name = 23;  
+
+
   //3) varibale names are case- sensitive( age, Age, AGE are three differet varibale)
   int roll = 20;
   int Roll = 30;
